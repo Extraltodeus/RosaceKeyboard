@@ -18,5 +18,6 @@ It requires pygame and pyautogui in order to run.
 
 
 How to use :
--turn on your controller
--start it :D
+
+- turn on your controller
+- start it :D
